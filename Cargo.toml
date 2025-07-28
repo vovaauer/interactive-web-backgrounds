@@ -1,0 +1,8 @@
+[package]
+name = "interactive-web-backgrounds"
+version = "0.1.0"
+authors = ["Vova Auer"]
+edition = "2024"
+license = "MIT"
+
+[dependencies]
